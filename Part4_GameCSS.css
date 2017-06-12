@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+}
+td{
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  /*padding: 100px;*/
+  border: 5px solid black;
+  font-size: 70px
+}
+#b{
+   margin-left: 470px;
+   margin-top: 30px;
+   background-color: #e04a2c;
+   border-color: #e04a2c;
+   box-shadow: 5px 5px 5px #888888;
+
+}
+#message{
+  font-size: 150%;
+  margin-top: 30px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+body{
+  background-color: #4a4d51
+}
+#b:hover{
+ background-color: #9e210f
+  }
